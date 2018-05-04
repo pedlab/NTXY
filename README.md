@@ -9,7 +9,9 @@ Given a file with N moving objects, how can manually trace with ease the (x,y) c
 
 To use the program, run the main function
 
+'''python
 main()
+'''
 
 Press the following keys to achieve the respective results:
     
